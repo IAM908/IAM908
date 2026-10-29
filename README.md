@@ -6,7 +6,7 @@ I'm a software engineering student from **the Dominican Republic**, who enjoys b
 
 I believe the best way to learn is by building real projects, making mistakes, and improving with every iteration.
 
-<img src="https://dummyimage.com/1x24/000/000.png" width="1" height="24" alt="" />
+<img src="https://dummyimage.com/1x24/000/000.png" width="1" height="32" alt="" />
 
 ## Skills
 
@@ -22,7 +22,7 @@ I believe the best way to learn is by building real projects, making mistakes, a
 
 [![Future Skills](https://skillicons.dev/icons?i=nextjs,graphql,py,django,vue,threejs&theme=dark&perline=6)](https://skillicons.dev)
 
-<img src="https://dummyimage.com/1x24/000/000.png" width="1" height="24" alt="" />
+<img src="https://dummyimage.com/1x24/000/000.png" width="1" height="32" alt="" />
 
 ## Tools
 
@@ -56,9 +56,8 @@ A personal finance dashboard concept for managing cards, tracking transactions a
 
 [View repository →](https://github.com/IAM908/viduWallet/tree/main/viduWebApp)
 
-<img src="https://dummyimage.com/1x32/000/000.png" width="1" height="32" alt="" />
+<img src="https://dummyimage.com/1x32/000/000.png" width="1" height="64" alt="" />
 
-## 📊 GitHub Stats
 
 ![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=IAM908&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
 
