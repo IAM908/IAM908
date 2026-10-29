@@ -8,6 +8,8 @@ I believe the best way to learn is by building real projects, making mistakes, a
 
 <img src="https://dummyimage.com/1x24/000/000.png" width="1" height="32" alt="" />
 
+[Mechanic Project](https://github.com/IAM908/mechanic-saas)   [Vidu Wallet](https://github.com/IAM908/viduWallet/tree/main/viduWebApp)
+
 ## Skills
 
 **I work with**
