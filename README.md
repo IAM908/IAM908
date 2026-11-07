@@ -14,7 +14,7 @@ I believe the best way to learn is by building real projects, making mistakes, a
 
 **I work with**
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,ts,tailwind,nodejs,express,dart,flutter,mysql,postgres,jwt,html,git&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,tailwind,nodejs,express,dart,flutter,mysql,postgres,css,html,git&theme=dark&perline=6)](https://skillicons.dev)
 
 **Currently learning**
 
