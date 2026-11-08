@@ -18,8 +18,7 @@ I believe the best way to learn is by building real projects, making mistakes, a
 
 **Currently learning**
 
-[![Currently Learning](https://skillicons.dev/icons?i=docker&theme=dark&perline=6)](https://skillicons.dev)
-
+[![Currently Learning](https://skillicons.dev/icons?i=docker,postman,redis&theme=dark&perline=6)](https://skillicons.dev)
 **On my radar**
 
 [![Future Skills](https://skillicons.dev/icons?i=nextjs,graphql,py,django,vue,threejs&theme=dark&perline=6)](https://skillicons.dev)
